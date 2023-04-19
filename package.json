@@ -16,5 +16,8 @@
     "nodemon": "^2.0.22",
     "rimraf": "^5.0.0",
     "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "venom-bot": "^4.2.1"
   }
 }
